@@ -5,7 +5,8 @@
 - 使用基于figure-level的函数，无法使用ax,fig，如displot, jointplot
 - 使用基于axes-level的函数，可以调用ax,fig, 如distplot, hisplot
 
-- 更详细的解释见AI的回答：
+- 更详细的解释见文心一言（AI）的回答：
+- https://yiyan.baidu.com/share/mKcl3nSL0x?utm_invite_code=Pwsc0%2FlMMdDzbiS1QZz2Dw%3D%3D&utm_name=5pel6bKc5LqR&utm_fission_type=common 
 - 附件里有相应的代码
 
 
